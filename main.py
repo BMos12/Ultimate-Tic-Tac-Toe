@@ -1,5 +1,7 @@
-# Author: Blake Mosley
-# Email: Blaketmosley12@gmail.com
+# main.py
+# Source: https://github.com/BMos12/Ultimate-Tic-Tac-Toe
+
+# This is the main file that you would run to play.
 
 import math
 import tkinter as tk
